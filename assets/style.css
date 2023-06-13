@@ -1,0 +1,25 @@
+body {
+    background-color:bisque;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    width: 100vw;
+}
+
+h1 {
+    text-align: center;
+}
+
+div.image-container img {
+    display: block;
+    width: 50%;
+    margin:0 auto;
+}
+
+div.button-container {
+    display: flex;
+    justify-content: center;
+    padding-top: 2rem;
+}
+
+
